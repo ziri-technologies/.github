@@ -1,5 +1,5 @@
 <div align="center">
-![Ziri Technologies — Engineering intelligent systems](./assets/ziri-github-banner.png)
+![Ziri Technologies — Engineering intelligent systems](./assets/ziri-github-banner.svg)
 # Ziri Technologies
 
 ### Engineering intelligent systems that connect, understand, and evolve.
