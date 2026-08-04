@@ -1,15 +1,6 @@
-# Ziri Technologies
+# Ziri Technologies GitHub configuration
 
-Building intelligent software systems.
+This repository contains the public organization profile and shared
+GitHub configuration for Ziri Technologies.
 
-## Focus Areas
-
-- AI Engineering
-- Enterprise Integration
-- Automation
-- Developer Productivity
-- Intelligent Software Systems
-
----
-
-We're building software that helps engineers understand, build and automate complex systems.
+Visit [ziri-tech.com](https://ziri-tech.com).
